@@ -1,5 +1,5 @@
 packages:
-  - name: joke
+  - name: orea
     actions:
-      - name: joke
+      - name: checker
         runtime: 'python:default'
